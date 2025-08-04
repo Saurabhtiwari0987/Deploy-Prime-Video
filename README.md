@@ -1,3 +1,35 @@
+Understand and Document End-to-End CI/CD Deployment Stages
+🎯 Objective:
+To help students clearly understand the real-world DevOps CI/CD pipeline stages used in enterprise software deployment. This assignment focuses on the theoretical explanation of each stage in the CI/CD flow shown below.
+
+📌 Assignment Context:
+You are provided with a CI/CD pipeline diagram that represents the stages involved in deploying an application in a production-like environment. These stages include code checkout, analysis, scanning, image creation, and deployment.
+
+Students are expected to study and explain each stage in their own words and understand the role and importance of every step in the software delivery lifecycle.
+
+🧱 Deployment Stages Diagram Provided:
+(Attached diagram of: Git Checkout → SonarQube Analysis → Quality Gate → OWASP FS Scan → Trivy FS → Build Image → Tag and Push Image → Deploy to Container)
+
+📖 Instructions:
+Go through each stage in the provided pipeline.
+
+Write a clear and detailed explanation for every stage:
+
+What is the purpose of this stage?
+
+Why is it important in a CI/CD pipeline?
+
+What type of tools are typically used at this stage?
+
+You do not need to perform any hands-on tasks — this is a conceptual assignment.
+
+Your explanation should demonstrate your understanding of how modern DevOps pipelines work.
+
+Use simple and professional language — this will help in interviews and real-world project discussions.
+
+
+
+
 # Deploy Amazon Prime Clone Application AWS using DevSecOps Approach
 
 
